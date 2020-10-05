@@ -1,0 +1,17 @@
+    <item>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:title>Säsongsavslutning och en historisk omröstning</itunes:title>
+      <itunes:subtitle>Säsongsavslutning och en historisk omröstning</itunes:subtitle>
+      <title>Säsongsavslutning och en historisk omröstning</title>
+      <itunes:summary>Säsongsavslutning och en historisk omröstning</itunes:summary>
+      <description>
+          Säsongsavslutning och en historisk omröstning
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s01e30.mp3" length="5306434" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s01e30.mp3</guid>
+      <pubDate>Thu, 18 Jun 2020 20:22:00 CEST</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>556.9567346938776</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
