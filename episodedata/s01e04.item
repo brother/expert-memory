@@ -1,0 +1,17 @@
+    <item>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:title>Om EUs långtidsbudget, Kina och veckans värsta väder!</itunes:title>
+      <itunes:subtitle>Om EUs långtidsbudget, Kina och veckans värsta väder!</itunes:subtitle>
+      <title>Om EUs långtidsbudget, Kina och veckans värsta väder!</title>
+      <itunes:summary>Om EUs långtidsbudget, Kina och veckans värsta väder!</itunes:summary>
+      <description>
+          Om EUs långtidsbudget, Kina och veckans värsta väder!
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s01e04.mp3" length="7066592" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s01e04.mp3</guid>
+      <pubDate>Thu, 30 Jan 2020 20:46:00 CET</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>701.4138775510204</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
