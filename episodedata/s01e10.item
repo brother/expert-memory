@@ -1,0 +1,23 @@
+    <item>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:title>Ett historiskt avsnitt av den politiska talkshowen 2022</itunes:title>
+      <itunes:subtitle>Ett historiskt avsnitt av den politiska talkshowen 2022</itunes:subtitle>
+      <title>Ett historiskt avsnitt av den politiska talkshowen 2022</title>
+      <itunes:summary>
+          Från en politisk dag av aldrig tidigare skådat slag.
+
+          Vi har gjort det som aldrig tidigare genomförts i EU-parlamentets historia. Och vi har gjort det därför att den kris vi är kräver ett antal beslut.
+      </itunes:summary>
+      <description>
+          Från en politisk dag av aldrig tidigare skådat slag.
+
+          Vi har gjort det som aldrig tidigare genomförts i EU-parlamentets historia. Och vi har gjort det därför att den kris vi är kräver ett antal beslut.
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s01e10.mp3" length="6260061" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s01e10.mp3</guid>
+      <pubDate>Thu, 26 Mar 2020 20:22:00 CET</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>540.84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
