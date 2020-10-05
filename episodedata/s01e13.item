@@ -1,0 +1,17 @@
+    <item>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:title>Påskspecial</itunes:title>
+      <itunes:subtitle>Påskspecial</itunes:subtitle>
+      <title>Påskspecial</title>
+      <itunes:summary>Vi står upp för den europeiska ekonomiska solidariteten. I tider av kris behöver vi varandra som mest. Alla förlorar på en retorik som bygger på att de som påverkat värst ska "skylla sig själva". Vi behöver mer samarbete, inte mindre!</itunes:summary>
+      <description>
+          Vi står upp för den europeiska ekonomiska solidariteten. I tider av kris behöver vi varandra som mest. Alla förlorar på en retorik som bygger på att de som påverkat värst ska "skylla sig själva". Vi behöver mer samarbete, inte mindre!
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s01e13.mp3" length="7329477" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s01e13.mp3</guid>
+      <pubDate>Thu, 9 Apr 2020 20:22:00 CET</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>610.896</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
