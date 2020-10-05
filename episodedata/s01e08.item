@@ -1,0 +1,27 @@
+    <item>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:title>2022 från karantän i Bryssel</itunes:title>
+      <itunes:subtitle>2022 från karantän i Bryssel</itunes:subtitle>
+      <title>2022 från karantän i Bryssel</title>
+      <itunes:summary>
+          Ni tittare har valt!
+
+          I kvällens avsnitt är både jag och Pär instängda på varsitt håll i den Belgiska karantänen. Vi bestämde formatet, ni bestämde frågorna! Tack för att ni bidragit med kloka frågor från allt mellan himmel och jord.
+
+          Nu får ni svar genom en aldrig tidigare sänd digital ping-pong-match! Fick ni inte med era frågor i kvällens avsnitt? Skriv igen, samma eller nya förslag! Tillsammans skapar vi innehållet i nästa veckas program!
+      </itunes:summary>
+      <description>
+          Ni tittare har valt!
+
+          I kvällens avsnitt är både jag och Pär instängda på varsitt håll i den Belgiska karantänen. Vi bestämde formatet, ni bestämde frågorna! Tack för att ni bidragit med kloka frågor från allt mellan himmel och jord.
+
+          Nu får ni svar genom en aldrig tidigare sänd digital ping-pong-match! Fick ni inte med era frågor i kvällens avsnitt? Skriv igen, samma eller nya förslag! Tillsammans skapar vi innehållet i nästa veckas program!
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s01e08.mp3" length="5570858" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s01e08.mp3</guid>
+      <pubDate>Thu, 30 Jan 2020 20:46:00 CET</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>585.534693877551</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
