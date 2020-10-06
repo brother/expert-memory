@@ -1,0 +1,23 @@
+    <item>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:title>Lövin lämnar, vad händer nu</itunes:title>
+      <itunes:subtitle>Lövin lämnar, vad händer nu</itunes:subtitle>
+      <title>Lövin lämnar, vad händer nu</title>
+      <itunes:summary>
+          Igår meddelade Miljöpartiets språkrör Isabella Lövin att hon ställer sin plats till förfogande efter 4 år.
+
+          I veckans 2022 samtalar Alice Bah Kuhnke med riksvalberedningens sammankallande Katrin Wising om vägen framåt och demokrati.
+      </itunes:summary>
+      <description>
+          Igår meddelade Miljöpartiets språkrör Isabella Lövin att hon ställer sin plats till förfogande efter 4 år.
+
+          I veckans 2022 samtalar Alice Bah Kuhnke med riksvalberedningens sammankallande Katrin Wising om vägen framåt och demokrati.
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s02e12.mp3" length="" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s02e12.mp3</guid>
+      <pubDate>Thu, 27 Aug 2020 20:22:00 CEST</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
