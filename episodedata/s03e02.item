@@ -1,0 +1,24 @@
+    <item>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:title>Stoppa Preem!</itunes:title>
+      <itunes:subtitle>Stoppa Preem!</itunes:subtitle>
+      <title>Stoppa Preem!</title>
+      <itunes:summary>
+      </itunes:summary>
+      <description>
+          Att tillåta utbyggnaden av Preemraff vore ett svek mot kommande generationer
+
+          I veckan har Greenpeace fartyg ”Rainbow Warrior” blockerat infarten till Preems raffinaderi i Lysekil. Deras ilska är befogad då en utbyggnad skulle innebära att Preem fördubblar sina utsläpp och blir Sveriges enskilt största utsläppare.
+
+          Frågan om tillstånd att bygga ut ”raffen” ligger nu på regeringens bord.
+
+          Vi miljöpartister vet var vi står - vi jobbar dag och natt för att hitta metoder för att stoppa utbyggnaden! Att tillåta utbyggnaden skulle innebära att Sverige riskerar att misslyckas med de internationella klimatmålen vi åtagit oss.
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s03e02.mp3" length="2744400" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s03e02.mp3</guid>
+      <pubDate>Thu, 10 Sep 2020 20:22:00 CEST</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>279.3795918367347</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
