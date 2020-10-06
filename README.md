@@ -1,6 +1,11 @@
 # 2022 RSS feed stuff
 
-Placeholder repo for the 2022 podcast.
+Repo for the 2022 podcast.
+
+https://podcasts.apple.com/se/podcast/id1534630311
+https://overcast.fm/itunes1534630311
+https://open.spotify.com/show/0VntBlmAVw7BraQcJbK8R5
+https://play.acast.com/s/2022-med-alice-bah-kuhnke-par-holmgren-och-jakop-dalunde
 
 # LICENSE AND COPYING
 
