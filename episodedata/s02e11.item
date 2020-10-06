@@ -1,0 +1,23 @@
+    <item>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:title>Social hållbarhet, vadå?</itunes:title>
+      <itunes:subtitle>Social hållbarhet, vadå?</itunes:subtitle>
+      <title>Social hållbarhet, vadå?</title>
+      <itunes:summary>
+          Träffar i veckans sommarvlogg min vän och mentor Karl-Henrik Robèrt för ett samtal om Social Hållbarhet, vetenskapen och vad som händer i ett samhälle som inte lyckas och vad pandemin har med alltihop att göra.
+
+          För dig som vill läsa mer: https://www.bth.se/forskning/forskningsomraden/strategisk-hallbar-utveckling/
+      </itunes:summary>
+      <description>
+          Träffar i veckans sommarvlogg min vän och mentor Karl-Henrik Robèrt för ett samtal om Social Hållbarhet, vetenskapen och vad som händer i ett samhälle som inte lyckas och vad pandemin har med alltihop att göra.
+
+          För dig som vill läsa mer: https://www.bth.se/forskning/forskningsomraden/strategisk-hallbar-utveckling/
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s02e11.mp3" length="" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s02e11.mp3</guid>
+      <pubDate>Thu, 20 Aug 2020 20:22:00 CEST</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
