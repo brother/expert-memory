@@ -1,0 +1,17 @@
+    <item>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:title>Vi står upp för humanismen!</itunes:title>
+      <itunes:subtitle>Vi står upp för humanismen!</itunes:subtitle>
+      <title>Vi står upp för humanismen!</title>
+      <itunes:summary>Vi står upp för humanismen!</itunes:summary>
+      <description>
+          Vi står upp för humanismen!
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s02e02.mp3" length="" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s02e02.mp3</guid>
+      <pubDate>Tue, 30 Jun 2020 20:22:00 CEST</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
