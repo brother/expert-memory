@@ -1,0 +1,17 @@
+    <item>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:title>Vi är ledarna vi väntar på</itunes:title>
+      <itunes:subtitle>Vi är ledarna vi väntar på</itunes:subtitle>
+      <title>Vi är ledarna vi väntar på</title>
+      <itunes:summary>Vi är ledarna vi väntar på</itunes:summary>
+      <description>
+          Vi är ledarna vi väntar på
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s02e03.mp3" length="" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s02e03.mp3</guid>
+      <pubDate>Thu, 2 Jul 2020 20:22:00 CEST</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
