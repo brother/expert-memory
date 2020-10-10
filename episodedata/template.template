@@ -1,0 +1,17 @@
+    <item>
+      <itunes:season>SEASON</itunes:season>
+      <itunes:episode>EPISODENMBR</itunes:episode>
+      <itunes:title>EPISODETITLE</itunes:title>
+      <itunes:subtitle>EPISODETITLE</itunes:subtitle>
+      <title>EPISODETITLE</title>
+      <itunes:summary>EPISODESUMMARY</itunes:summary>
+      <description>
+          EPISODESUMMARY
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/EPISODETAG.mp3" length="EPISODESIZE" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/EPISODETAG.mp3</guid>
+      <pubDate>Thu, 30 Jan 2020 20:22:00 CET</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>EPISODELENGTH</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
