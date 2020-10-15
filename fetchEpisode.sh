@@ -64,7 +64,7 @@ echo
 echo "Make sure to set the correct pubDate."
 echo "Example:"
 echo -n "    "
-LANG=C date +"%a %b %_d 20:22:00 %Z"
+LANG=C date +"%a, %b %_d 20:22:00 %Z"
 echo
 echo "Now edit the item file: $itemFile and update the feed."
 
