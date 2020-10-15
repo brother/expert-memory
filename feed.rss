@@ -1099,5 +1099,42 @@
       <itunes:duration>456.22857142857146</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:title>Det ska vara lätt att välja rätt i mathyllorna!</itunes:title>
+      <itunes:subtitle>Det ska vara lätt att välja rätt i mathyllorna!</itunes:subtitle>
+      <title>Det ska vara lätt att välja rätt i mathyllorna!</title>
+      <itunes:summary>
+          Vi vill ha en jordbrukspolitik som gynnar det småskaliga, ekologiska och närodlade!
+
+          Nästa vecka ska vi i Europaparlamentet rösta om framtidens jordbrukspolitik och hur de 600 miljarder kronor som årligen delas ut i jordbruksstöd ska fördelas.
+
+          Sedan 1981 har fyra av fem bönder försvunnit i Europa, och det är inte bra. Småskaligt har konkurrerats ut av stora industrier där vinst går före kvalité och miljö. Det vill vi ändra på!
+
+          - Det ska vara lätt att välja rätt i mathyllorna!
+          - Bort med det dåliga, in med det nyttiga och miljövänliga!
+          - Mer pengar till ekologiskt och hållbart jordbruk!
+          - Bidra till en levande landsbygd.
+      </itunes:summary>
+      <description>
+          Vi vill ha en jordbrukspolitik som gynnar det småskaliga, ekologiska och närodlade!
+
+          Nästa vecka ska vi i Europaparlamentet rösta om framtidens jordbrukspolitik och hur de 600 miljarder kronor som årligen delas ut i jordbruksstöd ska fördelas.
+
+          Sedan 1981 har fyra av fem bönder försvunnit i Europa, och det är inte bra. Småskaligt har konkurrerats ut av stora industrier där vinst går före kvalité och miljö. Det vill vi ändra på!
+
+          - Det ska vara lätt att välja rätt i mathyllorna!
+          - Bort med det dåliga, in med det nyttiga och miljövänliga!
+          - Mer pengar till ekologiskt och hållbart jordbruk!
+          - Bidra till en levande landsbygd.
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s03e07.mp3" length="3890774" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s03e07.mp3</guid>
+      <pubDate>Thu, Oct 15 20:22:00 CEST</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>411.2457142857143</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
