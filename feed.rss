@@ -1136,5 +1136,42 @@
       <itunes:duration>411.2457142857143</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:title>Korvkrigetär igång</itunes:title>
+      <itunes:subtitle>Korvkriget är igång</itunes:subtitle>
+      <title>Korvkrigetär igång</title>
+      <itunes:summary>
+          Det ska vara lätt att välja rätt i mathyllorna.
+          Europeiska kötthögern med franska Socialdemokraterna i spetsen vill göra det svårare att välja vegansk och vegetariskt genom att förbjuda mat som inte innehåller kött att kallas för t.ex korv och burgare.
+
+          Vansinnigt tycker vi Miljöpartister!
+
+          Det här är dock bara en liten del av en mängd orimliga förslag som det röstas om den här veckan i Bryssel.
+
+          Vi kommer rösta emot HELA förslaget om gemensam jordbrukspolitik. Redan idag går EU:s jordbruksstöd till redan rika lantbrukare som genererar stora växthusgasutsläpp. Med den nuvarande jordbrukspolitiken kommer vi inte nå klimatmålen. Då kan vi inte ändra på marginalen, förslaget måste tillbaka till ritbordet!
+
+          Det måste bli lättare att som konsument hitta de mer hållbara alternativen till kött-och mejeriprodukter. Därför står vi upp för vegokorven!
+      </itunes:summary>
+      <description>
+          Det ska vara lätt att välja rätt i mathyllorna.
+          Europeiska kötthögern med franska Socialdemokraterna i spetsen vill göra det svårare att välja vegansk och vegetariskt genom att förbjuda mat som inte innehåller kött att kallas för t.ex korv och burgare.
+
+          Vansinnigt tycker vi Miljöpartister!
+
+          Det här är dock bara en liten del av en mängd orimliga förslag som det röstas om den här veckan i Bryssel.
+
+          Vi kommer rösta emot HELA förslaget om gemensam jordbrukspolitik. Redan idag går EU:s jordbruksstöd till redan rika lantbrukare som genererar stora växthusgasutsläpp. Med den nuvarande jordbrukspolitiken kommer vi inte nå klimatmålen. Då kan vi inte ändra på marginalen, förslaget måste tillbaka till ritbordet!
+
+          Det måste bli lättare att som konsument hitta de mer hållbara alternativen till kött-och mejeriprodukter. Därför står vi upp för vegokorven!
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s03e08.mp3" length="1661026" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s03e08.mp3</guid>
+      <pubDate>Thu, Oct 22 20:22:00 CEST</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>171.88571428571427</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
