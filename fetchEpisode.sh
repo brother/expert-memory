@@ -18,7 +18,7 @@ if [[ $number == 0* ]]; then
 fi
 number=$((number+1))
 
-newEpisodeTag="$season$number"
+newEpisodeTag="${season}e$number"
 if (( number < 10 )); then
 	newEpisodeTag="${season}e0$number"
 fi
