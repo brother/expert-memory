@@ -1258,5 +1258,34 @@
       <itunes:duration>306.25959183673467</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:title>QA EUs budget</itunes:title>
+      <itunes:subtitle>QA EUs budget</itunes:subtitle>
+      <title>QA EUs budget</title>
+      <itunes:summary>
+        Allt du velat veta om EU:s budget
+
+        I veckan bad vi er tittare skicka in frågor och funderingar ni har kring EU:s långtidsbudget, även kallad MFF:n på EU-lingo.
+        Vi fick in massvis med frågor! Tack!
+
+        I veckans 2022 svarar vi på några av frågorna vi fått!
+      </itunes:summary>
+      <description>
+        Allt du velat veta om EU:s budget
+
+        I veckan bad vi er tittare skicka in frågor och funderingar ni har kring EU:s långtidsbudget, även kallad MFF:n på EU-lingo.
+        Vi fick in massvis med frågor! Tack!
+
+        I veckans 2022 svarar vi på några av frågorna vi fått!
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s03e12.mp3" length="6653335" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s03e12.mp3</guid>
+      <pubDate>Thu, 19 Nov 2020 20:22:00 CET</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>695.3273469387755</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
