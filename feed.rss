@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2022 med Alice Bah Kuhnke, Pär Holmgren och Jakop Dalunde</title>
     <link>https://www.youtube.com/c/tjugotjugotva</link>
-    <language>sv-se</language>
+    <language>sv</language>
     <copyright>Miljöpartiet de Gröna i Europaparlamentet</copyright>
     <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
     <itunes:summary>Alice, Pär och Jakop sammanfattar veckan som gått i Europaparlamentet och kryddar det med spaningar på andra håll.</itunes:summary>
@@ -14,6 +17,8 @@
   	  <itunes:name>Miljöpartiet de Gröna i Europaparlamentet</itunes:name>
   	  <itunes:email>martin@bagge.nu</itunes:email>
     </itunes:owner>
+    <googleplay:owner>martin@bagge.nu</googleplay:owner>
+    <googleplay:author>Miljöpartiet de Gröna i Europaparlamentet</googleplay:author>
     <itunes:image href="https://brother.github.io/expert-memory/logo.png" />
     <itunes:category text="News">
   	  <itunes:category text="Politics"/>
@@ -21,7 +26,9 @@
     <itunes:category text="News">
   	  <itunes:category text="News Commentary"/>
     </itunes:category>
+    <googleplay:category text="News &amp; Politics"/>
     <itunes:explicit>false</itunes:explicit>
+    <googleplay:explicit>no</googleplay:explicit>
     <item>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
