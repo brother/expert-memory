@@ -2,11 +2,14 @@
 
 Repo for the 2022 podcast.
 
-https://podcasts.apple.com/se/podcast/id1534630311
-https://overcast.fm/itunes1534630311
-https://open.spotify.com/show/0VntBlmAVw7BraQcJbK8R5
-https://play.acast.com/s/2022-med-alice-bah-kuhnke-par-holmgren-och-jakop-dalunde
-https://podcasts.google.com/feed/aHR0cHM6Ly9icm90aGVyLmdpdGh1Yi5pby9leHBlcnQtbWVtb3J5L2ZlZWQucnNz
+Get the podcast from the usual locations.
+
+* https://www.youtube.com/c/tjugotjugotva/videos
+* https://podcasts.apple.com/se/podcast/id1534630311
+* https://overcast.fm/itunes1534630311
+* https://open.spotify.com/show/0VntBlmAVw7BraQcJbK8R5
+* https://play.acast.com/s/2022-med-alice-bah-kuhnke-par-holmgren-och-jakop-dalunde
+* https://podcasts.google.com/feed/aHR0cHM6Ly9icm90aGVyLmdpdGh1Yi5pby9leHBlcnQtbWVtb3J5L2ZlZWQucnNz
 
 # LICENSE AND COPYING
 
