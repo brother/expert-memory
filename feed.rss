@@ -1615,5 +1615,46 @@
       <itunes:duration>565.315918367347</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:title>🌲 Vi älskar skogen! 🌲</itunes:title>
+      <itunes:subtitle>🌲 Vi älskar skogen! 🌲</itunes:subtitle>
+      <title>🌲 Vi älskar skogen! 🌲</title>
+      <itunes:summary>
+          Att skogen är livsviktig för oss människor, för djuren och för den
+          biologiska mångfalden är det inget snack om.
+
+          Skogen producerar inte bara vårt syre, den hjälper oss även att binda
+          koldioxid och om vi använder skogen rätt skulle den kunna hjälpa oss
+          ställa om från en fossil dåtid till en grön framtid.
+
+          I veckans 2022 pratar vi om vad skogen betyder för oss, för
+          mänskligheten och vilka möjligheter vi har.
+
+          Det här är det första avsnittet i en serie som under våren kommer
+          belysa skogspolitiken. Häng med! 🌳
+      </itunes:summary>
+      <description>
+          Att skogen är livsviktig för oss människor, för djuren och för den
+          biologiska mångfalden är det inget snack om.
+
+          Skogen producerar inte bara vårt syre, den hjälper oss även att binda
+          koldioxid och om vi använder skogen rätt skulle den kunna hjälpa oss
+          ställa om från en fossil dåtid till en grön framtid.
+
+          I veckans 2022 pratar vi om vad skogen betyder för oss, för
+          mänskligheten och vilka möjligheter vi har.
+
+          Det här är det första avsnittet i en serie som under våren kommer
+          belysa skogspolitiken. Häng med! 🌳
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s03e24.mp3" length="3971421" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s03e24.mp3</guid>
+      <pubDate>Thu, 11 Feb 2021 20:22:00 CET</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>365.424</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
