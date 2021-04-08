@@ -1981,5 +1981,66 @@
       <itunes:duration>481.032</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>32</itunes:episode>
+      <itunes:title>🚫 FÖRBJUD DJUR I BUR!! 🚫</itunes:title>
+      <itunes:subtitle>🚫 FÖRBJUD DJUR I BUR!! 🚫</itunes:subtitle>
+      <title>🚫 FÖRBJUD DJUR I BUR!! 🚫</title>
+      <itunes:summary>
+          Djurpolitiken har alltid varit viktig för oss miljöpartister
+          och därför är det extra kul att vi i förra veckan
+          presenterade vårt första djurpolitiska program!
+
+          Miljöpartiet kräver:
+          - Förbjud handel med levande vilda djur.
+          - Avveckla burhållning.
+          - Avveckla minkfarmning.
+          - Inför kameraövervakning i slakterier för att möjliggöra
+            efterkontroll av förhållanden vid slakt.
+          - Alla djur ska ha rätt till utevistelse och bete i så stor
+            utsträckning som väder och årstid medger det.
+          - Sverige ska ta fram en nationell plan för övergång till
+            forskning fri från djurförsök.
+
+          I veckans 2022 får vi följa med Pär Holmgren till en
+          ekobondgård utanför Stockholm där vi också får träffa årets
+          nyfödda kalvar.
+
+          För er som vill läsa mer om Miljöpartiets nya djurpolitiska
+          program:
+          https://www.mp.se/sites/default/files/mp_djurpolitisktprogram_2021.pdf
+      </itunes:summary>
+      <description>
+          Djurpolitiken har alltid varit viktig för oss miljöpartister
+          och därför är det extra kul att vi i förra veckan
+          presenterade vårt första djurpolitiska program!
+
+          Miljöpartiet kräver:
+          - Förbjud handel med levande vilda djur.
+          - Avveckla burhållning.
+          - Avveckla minkfarmning.
+          - Inför kameraövervakning i slakterier för att möjliggöra
+            efterkontroll av förhållanden vid slakt.
+          - Alla djur ska ha rätt till utevistelse och bete i så stor
+            utsträckning som väder och årstid medger det.
+          - Sverige ska ta fram en nationell plan för övergång till
+            forskning fri från djurförsök.
+
+          I veckans 2022 får vi följa med Pär Holmgren till en
+          ekobondgård utanför Stockholm där vi också får träffa årets
+          nyfödda kalvar.
+
+          För er som vill läsa mer om Miljöpartiets nya djurpolitiska
+          program:
+          https://www.mp.se/sites/default/files/mp_djurpolitisktprogram_2021.pdf
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s03e32.mp3" length="2402622" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s03e32.mp3</guid>
+      <pubDate>Thu, 08 Apr 2021 20:22:00 CEST</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>251.2195918367347</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
