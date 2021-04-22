@@ -2065,5 +2065,28 @@
       <itunes:duration>828.288</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:title>NU STÄNGER VI BROMMA!!✈️🚫</itunes:title>
+      <itunes:subtitle>NU STÄNGER VI BROMMA!!✈️🚫</itunes:subtitle>
+      <title>NU STÄNGER VI BROMMA!!✈️🚫</title>
+      <itunes:summary>
+          Regeringen med Per Bolund i spetsen meddelade igår att de vill stänga ner Bromma Flygplats!
+
+          Det här är en stor seger för oss gröna och i veckans avsnitt av 2022 berättar vi varför det är på tiden att stänga och vad vi vill bygga istället.
+      </itunes:summary>
+      <description>
+          Regeringen med Per Bolund i spetsen meddelade igår att de vill stänga ner Bromma Flygplats!
+
+          Det här är en stor seger för oss gröna och i veckans avsnitt av 2022 berättar vi varför det är på tiden att stänga och vad vi vill bygga istället.
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s03e34.mp3" length="3432532" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s03e34.mp3</guid>
+      <pubDate>Thu, 22 Apr 2021 20:22:00 CEST</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>326.89632653061227</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
