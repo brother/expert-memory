@@ -23,14 +23,15 @@ if (( number < 10 )); then
 	newEpisodeTag="${season}e0$number"
 fi
 
-desc=$(find -- *.description)
+descFile=$(find -- *.description)
 mp3=$(find -- *.mp3)
+desc=${descFile%%-*.description}
 
 mp3File="mp3/$newEpisodeTag.mp3"
 mv "$mp3" "$mp3File"
 
 itemFile="episodedata/$newEpisodeTag.item"
-mv "$desc" "$itemFile"
+mv "$descFile" "$itemFile"
 
 echo "" >> "$itemFile"
 cat episodedata/template.template >> "$itemFile"
