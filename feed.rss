@@ -2300,5 +2300,32 @@ Det har gått ett år sedan det fruktansvärda mordet på George Floyd i USA. Et
       <itunes:duration>68.23183673469387</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>42</itunes:episode>
+      <itunes:title>Vad händer med EUs jordbrukspolitik</itunes:title>
+      <itunes:subtitle>Vad händer med EUs jordbrukspolitik</itunes:subtitle>
+      <title>Vad händer med EUs jordbrukspolitik</title>
+      <itunes:summary>
+          Just nu förhandlas EUs framtida jordbrukspolitik, även känt som CAP, mellan EUs regeringar och Europaparlamentet.
+
+          Här förklarar Europaparlamentariker Pär Holmgren förhandlingsläget och vad som måste som måste ändras för att EU ska få ett mer klimatanpassas jordbruk.
+
+          Att vi inte är nöjda med Europaparlamentets ståndpunkt i förhandlingarna är väl känt, medans Centerpartiet och de konservativa är nöjda. Men det vi fått veta är att medlemsländerna vill satsa ännu mindre på ett ekologiskt, klimatsmart, hållbart jordbruk.
+      </itunes:summary>
+      <description>
+          Just nu förhandlas EUs framtida jordbrukspolitik, även känt som CAP, mellan EUs regeringar och Europaparlamentet.
+
+          Här förklarar Europaparlamentariker Pär Holmgren förhandlingsläget och vad som måste som måste ändras för att EU ska få ett mer klimatanpassas jordbruk.
+
+          Att vi inte är nöjda med Europaparlamentets ståndpunkt i förhandlingarna är väl känt, medans Centerpartiet och de konservativa är nöjda. Men det vi fått veta är att medlemsländerna vill satsa ännu mindre på ett ekologiskt, klimatsmart, hållbart jordbruk.
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s03e42.mp3" length="1680008" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s03e42.mp3</guid>
+      <pubDate>Sat, 05 Jun 2021 20:22:00 CEST</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>205.27020408163264</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
