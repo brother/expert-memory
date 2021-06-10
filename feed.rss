@@ -2350,5 +2350,40 @@ Det har gått ett år sedan det fruktansvärda mordet på George Floyd i USA. Et
       <itunes:duration>129.41061224489795</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:title>Miljöpartiet vill förbjuda djur i bur!</itunes:title>
+      <itunes:subtitle>Miljöpartiet vill förbjuda djur i bur!</itunes:subtitle>
+      <title>Miljöpartiet vill förbjuda djur i bur!</title>
+      <itunes:summary>
+          I veckan röstar Europaparlamentet om ett initiativ från er medborgare!
+
+          1,6 miljoner europeer har skrivit under en namninsamling som lämnats över till EU med kravet på att förbjuda djur i bur!
+
+          Djurplågeriet i EU är ett stort problem och hundratals miljoner djur lever idag i burar.
+
+          Vi måste få stopp på djurplågeriet!
+
+          Djurens rätt är vår rätt! Vi är ju djur när allt kommer till kritan.
+      </itunes:summary>
+      <description>
+          I veckan röstar Europaparlamentet om ett initiativ från er medborgare!
+
+          1,6 miljoner europeer har skrivit under en namninsamling som lämnats över till EU med kravet på att förbjuda djur i bur!
+
+          Djurplågeriet i EU är ett stort problem och hundratals miljoner djur lever idag i burar.
+
+          Vi måste få stopp på djurplågeriet!
+
+          Djurens rätt är vår rätt! Vi är ju djur när allt kommer till kritan.
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s04e01.mp3" length="330170" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s04e01.mp3</guid>
+      <pubDate>Thu, 10 Jun 2021 20:22:00 CEST</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>37.35510204081633</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
