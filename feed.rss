@@ -2539,5 +2539,24 @@ Det har gått ett år sedan det fruktansvärda mordet på George Floyd i USA. Et
       <itunes:duration>287.425306122449</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:title>Pär Holmgren besöker Stefan Sundström</itunes:title>
+      <itunes:subtitle>Pär Holmgren besöker Stefan Sundström</itunes:subtitle>
+      <title>Pär Holmgren besöker Stefan Sundström</title>
+      <itunes:summary>
+          I detta avsnitt besöker Pär Holmgren vinnaren av årets Grammis för hållbara artist - Stefan Sundström. I sin trädgård skapar Stefan något som nästan skulle kunna liknas vid magi. Genom sina så kallade jordfabriker och odlingar omvandlar Stefan koldioxid till jord och hjälper därmed till att binda delar av det vi släpper ut. Häng med på ett avsnitt fyllt med bland annat potatisskörd och djupa samtal om engagemang!
+      </itunes:summary>
+      <description>
+          I detta avsnitt besöker Pär Holmgren vinnaren av årets Grammis för hållbara artist - Stefan Sundström. I sin trädgård skapar Stefan något som nästan skulle kunna liknas vid magi. Genom sina så kallade jordfabriker och odlingar omvandlar Stefan koldioxid till jord och hjälper därmed till att binda delar av det vi släpper ut. Häng med på ett avsnitt fyllt med bland annat potatisskörd och djupa samtal om engagemang!
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s04e08.mp3" length="6643512" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s04e08.mp3</guid>
+      <pubDate>Sun, 25 Jul 2021 20:22:00 CEST</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>707.9183673469388</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
