@@ -2558,5 +2558,24 @@ Det har gått ett år sedan det fruktansvärda mordet på George Floyd i USA. Et
       <itunes:duration>707.9183673469388</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:title>ATT FÅ BADA I HAVET SKA INTE VARA ETT PRIVILEGIUM!</itunes:title>
+      <itunes:subtitle>ATT FÅ BADA I HAVET SKA INTE VARA ETT PRIVILEGIUM!</itunes:subtitle>
+      <title>ATT FÅ BADA I HAVET SKA INTE VARA ETT PRIVILEGIUM!</title>
+      <itunes:summary>
+          Alice badar i sjö och slår ett slag för vår älskade allemansrätt som hotas när stränderna privatiserar. Att få hoppa från en brygga ska inte vara de rikas privilegium! Var med du också och rädda strandskyddet genom att skriva under på https://www.raddastrandskyddet.se .
+      </itunes:summary>
+      <description>
+          Alice badar i sjö och slår ett slag för vår älskade allemansrätt som hotas när stränderna privatiserar. Att få hoppa från en brygga ska inte vara de rikas privilegium! Var med du också och rädda strandskyddet genom att skriva under på https://www.raddastrandskyddet.se .
+      </description>
+      <enclosure url="https://brother.github.io/expert-memory/mp3/s04e09.mp3" length="1441677" type="audio/mpeg" />
+      <guid>https://brother.github.io/expert-memory/mp3/s04e09.mp3</guid>
+      <pubDate>Mon, 26 Jul 2021 20:22:00 CEST</pubDate>
+      <itunes:author>Miljöpartiet de Gröna i Europaparlamentet</itunes:author>
+      <itunes:duration>86.88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
